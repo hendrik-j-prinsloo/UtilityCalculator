@@ -1,10 +1,10 @@
 # Utility Billing Calculator
 
+![Utility Calculator screenshot](images/menu.png)
+
 A desktop calculator built with Java and Swing, developed as a trial project for Remote Metering Solutions in February 2023 — the project that led to my hire.
 
 ## What it does
-
-![Utility Calculator screenshot](images/menu.png)
 
 Assists utility account managers with common electrical calculations, including:
 - Circuit breaker sizing
