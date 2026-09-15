@@ -4,10 +4,15 @@ A desktop calculator built with Java and Swing, developed as a trial project for
 
 ## What it does
 
+![Utility Calculator screenshot](images/menu.png)
+
 Assists utility account managers with common electrical calculations, including:
 - Circuit breaker sizing
+![Circuit Breaker Size screenshot](images/circuit-breaker-size.png)
 - kVA calculations
+![Notified Maximum Demand screenshot](images/notified-maximum-demand.png)
 - Power factor analysis
+![Power Factor screenshot](images/power-factor.png)
 
 ## Background
 
